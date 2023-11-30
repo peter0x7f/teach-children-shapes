@@ -15,7 +15,7 @@ canvas = screen.getcanvas()
 tk = canvas.winfo_toplevel()
 tk.attributes('-fullscreen', True)
 
-screen.title("Python Turtle on Replit")
+screen.title("Learn Shapes!")
 screen.setup(1.0, 1.0)
 
 print("Python turtle on Replit")
